@@ -1,0 +1,5 @@
+*.xml linguist-language=Java
+*.gradle linguist-language=Java
+*.jar linguist-language=Java
+*.properties linguist-language=Java
+*.java linguist-language=Python
