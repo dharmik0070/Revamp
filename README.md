@@ -20,17 +20,8 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <!-- <li><a href="#challenges-faced
-">How it was made
-</a>
-<ul>
-        <li><a href="#challenges-faced">2.1 Database
+    <li><a href="#how-it-works">How it works
 </a></li>
-        <li><a href="#challenges-faced">2.2 Backend
-</a></li>
-        <li><a href="challenges-faced">2.3 Frontend
-</a></li>
-</ul></li> -->
 <li><a href="#contact">Contact
 </a></li>
   </ol>
@@ -55,10 +46,10 @@
     - `Yolo Model`
 
 <!-- GETTING STARTED -->
-## Demo
+## How it works
 
-
-![Click here to check demo.](https://youtu.be/DyuhaaAYSWc)
+[Click here to check demo.](https://youtu.be/DyuhaaAYSWc)
+<br>
 
 > But it was great brain-storming and new learning to solve each issue thoroughly, it has really boosted my confidence.
 <!-- CONTACT -->
